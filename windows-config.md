@@ -12,10 +12,34 @@ show all icons in notification area: https://www.wright.edu/information-technolo
 `netplwiz` to disable requiring a password for login
 
 Firefox:
-default browser
-Dont ask
-Dont auto install updates
-Uncheck "Use a background service to install updates"
+* default browser
+* Dont ask
+* Dont auto install updates
+* Uncheck "Use a background service to install updates"
 Security:
-Uncheck "Ask to save logins and passwords"
-Do not remember history
+* Uncheck "Ask to save logins and passwords"
+* Do not remember
+Bookmarks toolbar:
+* show
+* github sign in
+* pilot
+* gmail sign in
+* office 365?
+
+
+Chrome:
+* import from firefox
+* dont save payment
+* dont save passwords
+* dont save addresses
+
+Check that the following are in the PATH:
+* g++
+* gcc
+* python
+* java
+* javac
+
+VSCODE:
+* install WSU CSE plugin
+* download and check hello world repo
