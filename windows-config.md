@@ -42,4 +42,4 @@ Check that the following are in the PATH:
 
 VSCODE:
 * install WSU CSE plugin
-* download and check hello world repo
+* download and check hello world repo https://github.com/mkijowski/wsu-cs-remote-setup
