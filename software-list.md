@@ -1,5 +1,5 @@
 ## All labs
-Microsoft Office
+* [] Microsoft Office
 Visual Studio Code (setup for java, c++, python, and R)
 MinGW (C++/C compiler and debugger)
 Vmware Player
