@@ -45,4 +45,4 @@ VSCODE:
 * install WSU CSE plugin
 * download and check hello world repo https://github.com/mkijowski/wsu-cs-remote-setup
 
-
+Allow unauthenticated share folder access in GPO: https://docs.microsoft.com/en-US/troubleshoot/windows-server/networking/guest-access-in-smb2-is-disabled-by-default
